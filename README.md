@@ -13,7 +13,7 @@ Palavras-chaves: Saúde, UBS, agendamento, consulta, Mongaguá, serviço públic
 ## Tecnologias ##
 
 O projeto utiliza, em sua conjuntura:
-  * HTML, CSS e JavaScripit;
+  * HTML, CSS e JavaScript;
   * PHP;
   * MySQL.
  
